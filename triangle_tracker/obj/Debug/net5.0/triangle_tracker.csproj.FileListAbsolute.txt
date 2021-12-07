@@ -1,0 +1,12 @@
+C:\Users\TheDreamer\desktop\epicodus-projects\week8\triangle_tracker_solution\triangle_tracker\bin\Debug\net5.0\triangle_tracker.deps.json
+C:\Users\TheDreamer\desktop\epicodus-projects\week8\triangle_tracker_solution\triangle_tracker\bin\Debug\net5.0\triangle_tracker.dll
+C:\Users\TheDreamer\desktop\epicodus-projects\week8\triangle_tracker_solution\triangle_tracker\bin\Debug\net5.0\ref\triangle_tracker.dll
+C:\Users\TheDreamer\desktop\epicodus-projects\week8\triangle_tracker_solution\triangle_tracker\bin\Debug\net5.0\triangle_tracker.pdb
+C:\Users\TheDreamer\desktop\epicodus-projects\week8\triangle_tracker_solution\triangle_tracker\obj\Debug\net5.0\triangle_tracker.csproj.AssemblyReference.cache
+C:\Users\TheDreamer\desktop\epicodus-projects\week8\triangle_tracker_solution\triangle_tracker\obj\Debug\net5.0\triangle_tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheDreamer\desktop\epicodus-projects\week8\triangle_tracker_solution\triangle_tracker\obj\Debug\net5.0\triangle_tracker.AssemblyInfoInputs.cache
+C:\Users\TheDreamer\desktop\epicodus-projects\week8\triangle_tracker_solution\triangle_tracker\obj\Debug\net5.0\triangle_tracker.AssemblyInfo.cs
+C:\Users\TheDreamer\desktop\epicodus-projects\week8\triangle_tracker_solution\triangle_tracker\obj\Debug\net5.0\triangle_tracker.csproj.CoreCompileInputs.cache
+C:\Users\TheDreamer\desktop\epicodus-projects\week8\triangle_tracker_solution\triangle_tracker\obj\Debug\net5.0\triangle_tracker.dll
+C:\Users\TheDreamer\desktop\epicodus-projects\week8\triangle_tracker_solution\triangle_tracker\obj\Debug\net5.0\ref\triangle_tracker.dll
+C:\Users\TheDreamer\desktop\epicodus-projects\week8\triangle_tracker_solution\triangle_tracker\obj\Debug\net5.0\triangle_tracker.pdb
